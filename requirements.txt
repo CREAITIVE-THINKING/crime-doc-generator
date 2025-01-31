@@ -1,0 +1,18 @@
+streamlit==1.31.0
+python-dotenv==1.0.0
+openai==1.11.0
+elevenlabs==0.2.26
+ffmpeg-python==0.2.0
+pillow==10.2.0
+requests==2.31.0
+python-multipart==0.0.6
+aiohttp==3.9.1
+numpy==1.26.3
+wandb==0.16.3
+weave==0.51.27
+logfire==3.1.0
+pydantic==2.10.5
+moviepy==1.0.3
+tqdm==4.66.1  # Required for moviepy progress bars
+decorator==4.4.2  # Required for moviepy
+imageio-ffmpeg>=0.4.3  # Required for moviepy video processing
