@@ -103,4 +103,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - ElevenLabs for voice synthesis
 - Weights & Biases for experiment tracking
 - Streamlit for the amazing web framework
+- RunComfy for VM image gen
 ```
