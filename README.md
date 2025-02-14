@@ -103,9 +103,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Weights & Biases for experiment tracking
 - Streamlit for the amazing web framework
 ```
-
-Would you like me to:
-1. Add more technical details to any section?
-2. Include a troubleshooting section?
-3. Add example usage with screenshots?
-4. Create a separate CONTRIBUTING.md file?
