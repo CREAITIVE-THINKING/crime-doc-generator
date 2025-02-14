@@ -46,6 +46,7 @@ pip install -r requirements.txt
 OPENAI_API_KEY=your_openai_key
 ELEVENLABS_API_KEY=your_elevenlabs_key
 WANDB_API_KEY=your_wandb_key
+RUN_COMFY_API_KEY=your_runcomfy_key
 ```
 
 ## Usage
